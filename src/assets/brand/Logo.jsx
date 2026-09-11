@@ -116,5 +116,5 @@ const Logo = ({
   </svg>
 )
 
-export { Logo }
-export default Logo
+export { logo }
+export default logo
