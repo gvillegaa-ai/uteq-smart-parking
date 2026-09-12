@@ -18,7 +18,7 @@ import {
 import CIcon from '@coreui/icons-react'
 import { apple } from 'src/assets/brand/apple'
 import { google } from 'src/assets/brand/google'
-import { logo } from 'src/assets/brand/logo'
+import { logo } from 'src/assets/brand/Logo'
 import { eye } from 'src/assets/icons/eye'
 
 const Register = () => {
